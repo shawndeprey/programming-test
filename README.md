@@ -23,7 +23,7 @@ Example Answers
 
 **2.** Design a RESTful JSON CRUD API for the 2 models above. Include expected input, what the controller might look like as well as the HTTP response code & JSON response object. Be sure to include how to obtain a list of each model type. Assume there are no security considerations expected in the solution. An example is provided below to give context as to what we are expecting in this question.
 
-GET `/funding_rounds/:id`
+**GET** `/funding_rounds/:id`
 
   * Controller Process:
     * Lookup Model, 404 on fail
