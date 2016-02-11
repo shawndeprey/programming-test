@@ -51,9 +51,9 @@ https://s3.amazonaws.com/ryse-static/programming-test/mock.png
 
 Company Logo Examples:
 
-https://s3.amazonaws.com/ryse-static/programming-test/facebook.png
-https://s3.amazonaws.com/ryse-static/programming-test/google.png
-https://s3.amazonaws.com/ryse-static/programming-test/reelio.png
+https://s3.amazonaws.com/ryse-static/programming-test/facebook.png, 
+https://s3.amazonaws.com/ryse-static/programming-test/google.png, 
+https://s3.amazonaws.com/ryse-static/programming-test/reelio.png, 
 https://s3.amazonaws.com/ryse-static/programming-test/twitter.jpg
 
 Typography:
