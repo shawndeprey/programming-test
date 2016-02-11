@@ -31,15 +31,16 @@ GET `/funding_rounds/:id`
   * Input Example:
     * {id: 123}
   *Output Example:
-    ```javascript
-    {
-      funding_round: {
-        id: 123,
-        funding_in_usd: 123.25,
-        company_id: 321
-      }
-    }
-    ```
+
+```javascript
+{
+  funding_round: {
+    id: 123,
+    funding_in_usd: 123.25,
+    company_id: 321
+  }
+}
+```
 
 
 **3** Using HTML & CSS, take the following mock and implement a list of company models. The JSON output you have on the front-end should be the JSON output for the `/companies` API route you created in question 2. You are not expected to be tying data in javascript objects to HTML elements in this question. You are only expected to create an HTML file that implements the mocks.
