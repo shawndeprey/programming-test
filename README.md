@@ -30,7 +30,7 @@ GET `/funding_rounds/:id`
     * Render Model as JSON, 200 success
   * Input Example:
     * {id: 123}
-  *Output Example:
+  * Output Example:
 
 ```javascript
 {
