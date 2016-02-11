@@ -31,7 +31,7 @@ GET `/funding_rounds/:id`
   * Input Example:
     * {id: 123}
   *Output Example:
-    * ```javascript
+    ```javascript
     {
       funding_round: {
         id: 123,
