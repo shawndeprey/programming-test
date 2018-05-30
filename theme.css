@@ -55,6 +55,7 @@ div.main div.title-bar h2 {
 div.main div.companies div.company {
   background: #FFFFFF;
   margin-top: 1em;
+  min-height: 108px;
 }
 
 div.main div.companies div.company p {
